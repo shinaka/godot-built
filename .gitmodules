@@ -1,0 +1,3 @@
+[submodule "modules/limboai"]
+	path = modules/limboai
+	url = https://github.com/limbonaut/limboai.git
